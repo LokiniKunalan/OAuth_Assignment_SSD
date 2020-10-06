@@ -26,7 +26,7 @@ I created the web application which is called as OWA that enables to upload the 
 3. After Successfully suthorize it will navigate to the File upload page
 
 # File Upload Page
- 1.Click the "Choose Files" Button.
+  1.Click the "Choose Files" Button.
  
  2. After select the file Clicks the "upload" Button.
  
