@@ -6,8 +6,12 @@ OAuth 2.0 is the authorization industry standard protocol. It mainly focusing on
 I created the web application which is called as OWA that enables to upload the certain files into the google drive.
 
 # Set Up the Client ID,Client Secret ID using Google develop Console
+
+# Clone the Project
 1.Setting up the Google Developer Console.
+
 2.Clone  this repository.
+
 3.Add the project in the WAMPP SERVER -> www-> add your folder.
 
 # Open the Visual Studio Code
