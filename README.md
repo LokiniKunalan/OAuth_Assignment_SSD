@@ -27,7 +27,9 @@ I created the web application which is called as OWA that enables to upload the 
 
 # File Upload Page
  1.Click the "Choose Files" Button.
- 2. After select the file Clicks the "upload" Button
+ 
+ 2. After select the file Clicks the "upload" Button.
+ 
  3. File is successfully uploaded by prompt up the sucess ful message with progress bar.
  
  # Thankyou
